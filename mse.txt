@@ -1,0 +1,252 @@
+median-filter mse 10~60 image00
+4191
+4222
+4310
+4482
+4904
+5431
+median-filter mse 10~60 image01
+3782
+3864
+4024
+4236
+4638
+5120
+median-filter mse 10~60 image02
+3253
+3291
+3393
+3578
+3913
+4362
+median-filter mse 10~60 image03
+6637
+6639
+6718
+6853
+7187
+7514
+median-filter mse 10~60 image04
+7450
+7514
+7633
+7785
+8126
+8448
+median-filter mse 10~60 image05
+4419
+4446
+4583
+4772
+5193
+5711
+median-filter mse 10~60 image06
+1895
+1967
+2114
+2338
+2793
+3325
+median-filter mse 10~60 image07
+4896
+4932
+5040
+5202
+5529
+5931
+median-filter mse 10~60 image08
+6988
+7024
+7089
+7243
+7578
+7953
+median-filter mse 10~60 image09
+60
+88
+199
+391
+793
+1302
+median-filter mse 10~60 image10
+3241
+3548
+3995
+4386
+4985
+5604
+median-filter mse 10~60 image11
+9851
+9835
+9919
+10066
+10312
+10629
+psm-filter mse 10~60 image00
+4324
+4420
+4502
+4600
+4693
+4777
+psm-filter mse 10~60 image01
+4021
+4050
+4099
+4145
+4224
+4317
+psm-filter mse 10~60 image02
+3363
+3402
+3435
+3495
+3524
+3589
+psm-filter mse 10~60 image03
+6733
+6742
+6781
+6806
+6839
+6832
+psm-filter mse 10~60 image04
+7585
+7633
+7696
+7765
+7808
+7837
+psm-filter mse 10~60 image05
+4557
+4616
+4698
+4772
+4853
+4938
+psm-filter mse 10~60 image06
+2015
+2055
+2109
+2158
+2218
+2292
+psm-filter mse 10~60 image07
+5007
+5086
+5163
+5251
+5327
+5402
+psm-filter mse 10~60 image08
+7207
+7234
+7261
+7267
+7289
+7317
+psm-filter mse 10~60 image09
+16
+35
+60
+88
+117
+156
+psm-filter mse 10~60 image10
+3765
+3877
+4204
+4372
+4634
+4824
+psm-filter mse 10~60 image11
+10047
+10039
+10114
+10144
+10140
+10200
+my-filter mse 10~60 image00
+4276
+4340
+4405
+4478
+4532
+4580
+my-filter mse 10~60 image01
+4019
+4035
+4074
+4116
+4185
+4273
+my-filter mse 10~60 image02
+3353
+3379
+3404
+3448
+3478
+3527
+my-filter mse 10~60 image03
+6723
+6719
+6747
+6764
+6786
+6771
+my-filter mse 10~60 image04
+7578
+7626
+7686
+7744
+7780
+7785
+my-filter mse 10~60 image05
+4537
+4585
+4647
+4706
+4765
+4835
+my-filter mse 10~60 image06
+1995
+2002
+2025
+2052
+2085
+2147
+my-filter mse 10~60 image07
+4976
+4999
+5047
+5101
+5140
+5189
+my-filter mse 10~60 image08
+7201
+7214
+7226
+7229
+7244
+7277
+my-filter mse 10~60 image09
+15
+33
+58
+86
+118
+153
+my-filter mse 10~60 image10
+3928
+4045
+4296
+4425
+4675
+4809
+my-filter mse 10~60 image11
+10020
+9980
+10030
+10047
+10031
+10065
